@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Military Frigate
+  m_EditorClassIdentifier: 
+  shipName: Military Frigate
+  shipTier: 11
+  shipMaxHold: 350
+  shipMaxCannons: 36
+  shipMaxHealth: 250
+  shipMaxCrew: 180
+  shipRotations:
+  - {fileID: -3931731118555159260, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 8226126523754194831, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 7746768853179300215, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: -8243000390575554561, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: -8526618950938580675, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: -8588967632244195030, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 997089573176328436, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: -4515411444312098379, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 3462855801774522749, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 8250004273883058907, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 4809181451868803424, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 628410618102243102, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 8284633561900877354, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 6981141116089960943, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: 5250182279207509263, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  - {fileID: -3883625194148969551, guid: dd463a8f8483d1f45a6ae5241b707d53, type: 3}
+  shipImage: {fileID: 21300000, guid: 7833ee242dcff5c46b87527c84530fcd, type: 3}

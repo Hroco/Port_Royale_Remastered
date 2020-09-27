@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Liner
+  m_EditorClassIdentifier: 
+  shipName: Liner
+  shipTier: 16
+  maxSpeed: 13
+  shipMaxHold: 400
+  shipMaxCannons: 50
+  shipMaxHealth: 340
+  shipMaxCrew: 250
+  shipRotations:
+  - {fileID: 416601434851469847, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: 3164177200966529181, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -3866112227721845918, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -8485078430278563857, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -3371047958438513043, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: 8686610512589367110, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -4328256593314606741, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -4936341352573823917, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -7426117317257623913, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -7042490091157883424, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: 3293113314912163200, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -8225597141271244074, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: 2578567144597518969, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -6682890145476272288, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: -3882919072080927804, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  - {fileID: 4601446657924219492, guid: af54f470e1f6ce54fb44dfb4735314ec, type: 3}
+  shipImage: {fileID: 21300000, guid: e5a47e6afa35ea242a0b82a6686f9f83, type: 3}

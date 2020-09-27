@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Sloop
+  m_EditorClassIdentifier: 
+  shipName: Sloop
+  shipTier: 2
+  shipMaxHold: 200
+  shipMaxCannons: 14
+  shipMaxHealth: 110
+  shipMaxCrew: 70
+  shipRotations:
+  - {fileID: 40091330376661718, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 1617219746753565725, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -3574507268787676966, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -7890172084175775122, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 3804823051613026465, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 5781100507267849891, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -4577311391047457501, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 654376446126673436, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -2539642633471630351, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -3198365800771251932, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -7466226563218751035, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 3812545336960378950, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: -1098831592123358399, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 4940584203542729517, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 4967895973730925099, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  - {fileID: 4002499918104208923, guid: 8007ba7ccdcee0a47ae3a7d728409ad0, type: 3}
+  shipImage: {fileID: 21300000, guid: 26721318175859b46b578258793bbbd4, type: 3}

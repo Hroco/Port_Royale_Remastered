@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Fluyt
+  m_EditorClassIdentifier: 
+  shipName: Fluyt
+  shipTier: 6
+  shipMaxHold: 500
+  shipMaxCannons: 16
+  shipMaxHealth: 220
+  shipMaxCrew: 80
+  shipRotations:
+  - {fileID: -6878207050336261975, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 4939513539780350210, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 4746911438754278602, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 8490029070966127549, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: -4525787174525998912, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: -6825090001451247365, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 69103579050024295, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 5527006827056222502, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 6262225296815866131, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: -6039008495075092203, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: -1339768572477880654, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 1628257678825175878, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: -661074089052024117, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 2006118027754294101, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 6211965662950311545, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  - {fileID: 7877652383629198645, guid: c06bb456941bccb4fbcc818c97f05252, type: 3}
+  shipImage: {fileID: 21300000, guid: 2fe0d9bba4e7a6f41ad9a5522f89d6a6, type: 3}

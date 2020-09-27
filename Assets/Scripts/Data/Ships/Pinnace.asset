@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Pinnace
+  m_EditorClassIdentifier: 
+  shipName: Pinnace
+  shipTier: 1
+  shipMaxHold: 200
+  shipMaxCannons: 8
+  shipMaxHealth: 100
+  shipMaxCrew: 40
+  shipRotations:
+  - {fileID: -8625146427491146187, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: -5025656181165941604, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 8246605391417155696, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: -7802959262853667107, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: -4853909831507506046, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 6212824470138471403, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 1712391864063681531, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 922495909286059874, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 5649475671495168568, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 8479240025056793105, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 5864248055914438393, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 1788903778582024730, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 8494239787486558565, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 5425504646239555896, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: 7828818825403247821, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  - {fileID: -2421575011407727689, guid: 8d8f0e2ea2014b544832ff5f1dd45d10, type: 3}
+  shipImage: {fileID: 21300000, guid: eea2af270b0908441904d8a1e36cc547, type: 3}

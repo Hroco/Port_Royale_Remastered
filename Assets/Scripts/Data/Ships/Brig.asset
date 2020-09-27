@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Brig
+  m_EditorClassIdentifier: 
+  shipName: Brig
+  shipTier: 3
+  shipMaxHold: 240
+  shipMaxCannons: 16
+  shipMaxHealth: 140
+  shipMaxCrew: 80
+  shipRotations:
+  - {fileID: -474102661987188026, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -952273285703775809, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -7702628795042933723, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 5006815865083022507, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 4420377926343672485, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -7487522143122220808, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -2254766496731874560, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -6639207833376511621, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 2037159048587465294, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -7615100214391315822, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 3415224701420543439, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: -5096249855516262419, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 1412876638041080707, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 7309094941097580727, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 7496534973926854407, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  - {fileID: 3028864547996164167, guid: 213181e6cfce67c4c826af1b3e2d6aba, type: 3}
+  shipImage: {fileID: 21300000, guid: 33994ef3d363fe1498958e2645333ded, type: 3}

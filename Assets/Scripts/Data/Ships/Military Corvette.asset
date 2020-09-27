@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Military Corvette
+  m_EditorClassIdentifier: 
+  shipName: Military Corvette
+  shipTier: 10
+  shipMaxHold: 300
+  shipMaxCannons: 32
+  shipMaxHealth: 210
+  shipMaxCrew: 160
+  shipRotations:
+  - {fileID: -6554014328628476418, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: 982435403470741993, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -4429102419862130019, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -7777698145811096329, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -7259003298995447849, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -3316404364299636901, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -8104402179999319940, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: 5457887688910273467, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -5958144889516032147, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -7989411994975852955, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: 883680553261418853, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -7349717430641802023, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -5023166462015140085, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -1793917279261971895, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: 3123376512142045499, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  - {fileID: -6915872561723616590, guid: fa0fc000ea62a3d4188a5a399484ffad, type: 3}
+  shipImage: {fileID: 21300000, guid: 5e85bceeab5b91a48815551afe295ba3, type: 3}

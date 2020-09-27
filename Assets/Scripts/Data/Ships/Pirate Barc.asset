@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Pirate Barc
+  m_EditorClassIdentifier: 
+  shipName: Pirate Barc
+  shipTier: 5
+  shipMaxHold: 300
+  shipMaxCannons: 24
+  shipMaxHealth: 180
+  shipMaxCrew: 120
+  shipRotations:
+  - {fileID: -773881431664360884, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 4734891623545872668, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -2294831655525284769, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 3558354385295631713, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 1255276592987332293, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -2062263080159728013, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 7807312444149852949, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 2750666127582987140, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -5028838757436536877, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 5885261156452760411, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 5842736308506183949, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -117988879066498984, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -7545019486764415590, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 6188589188506655046, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: -4256818180934560691, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  - {fileID: 7890590822843396430, guid: ecbb79cbcfb9d624db3746a1af02461e, type: 3}
+  shipImage: {fileID: 21300000, guid: 771fdec44aa192d4c8c8dc305dd08b22, type: 3}

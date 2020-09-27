@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: War Galleon
+  m_EditorClassIdentifier: 
+  shipName: War Galleon
+  shipTier: 15
+  shipMaxHold: 400
+  shipMaxCannons: 46
+  shipMaxHealth: 320
+  shipMaxCrew: 230
+  shipRotations:
+  - {fileID: 2722321322083046566, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: -3737632501437649520, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 349705360417621138, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 6618396594864396653, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 299593605705601258, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 8009595912573357988, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 7210242912367749187, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: -3410079971511724098, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: -7414443577323719407, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 9035893961773856851, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: -2664444538616059943, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 9087989654279427329, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 4955178201974705070, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: -6262507269031915148, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 1171257737190025265, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  - {fileID: 5539797307572854763, guid: ce024b79671bc674e8209bb58d100d29, type: 3}
+  shipImage: {fileID: 21300000, guid: a4bff91c7060a8045a1d2c6939b2a39e, type: 3}

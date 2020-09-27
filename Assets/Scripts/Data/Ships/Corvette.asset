@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d82d5f2ba11d9b4080cacdbda4a383f, type: 3}
+  m_Name: Corvette
+  m_EditorClassIdentifier: 
+  shipName: Corvette
+  shipTier: 8
+  shipMaxHold: 350
+  shipMaxCannons: 24
+  shipMaxHealth: 200
+  shipMaxCrew: 120
+  shipRotations:
+  - {fileID: -4513097040299472331, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -3834414430892282018, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 6553030392728377596, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 3274587788847756013, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 1670553788123680668, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -6169801462654893790, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -4257807109109246255, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 7323518285063689361, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -915746731887386591, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -3226409503500360314, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 1699169164428933076, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 2148943546447008666, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -5957125606864797245, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -7480187101525124736, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: -822601690105558848, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  - {fileID: 5848066534381658213, guid: 5d3a52620fa79bf4881ecea127c1ce2b, type: 3}
+  shipImage: {fileID: 21300000, guid: af822ea2d2b8ce4448e6715c5ab8d283, type: 3}
